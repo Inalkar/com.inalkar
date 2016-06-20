@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>saa</groupId>
+  <artifactId>storage-manager</artifactId>
+  <version>0.2.0</version>
+  <versioning>
+    <versions>
+      <version>0.2.0</version>
+    </versions>
+    <lastUpdated>20160620100130</lastUpdated>
+  </versioning>
+</metadata>
