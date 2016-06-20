@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.inalkar.daf.web</groupId>
+  <artifactId>winjs-osgi</artifactId>
+  <version>4.4.0</version>
+  <versioning>
+    <versions>
+      <version>4.4.0</version>
+    </versions>
+    <lastUpdated>20160620080305</lastUpdated>
+  </versioning>
+</metadata>
